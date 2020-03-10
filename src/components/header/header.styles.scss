@@ -15,11 +15,12 @@
     width: 50%;
     height: 100%;
     display: flex;
-    alignl-items: center;
+    align-items: center;
     justify-content: flex-end;
 
     .option {
       padding: 10px 15px;
+      cursor: pointer;
     }
   }
 }
